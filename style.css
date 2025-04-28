@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+#main {
+    align-self: center;
+    background-color: darkgray;
+    width: 60%;
+    height: 100vh;
+}
